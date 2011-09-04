@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1683" measuredH="777" mockupW="1428" mockupH="749">
+<mockup version="1.0" skin="sketch" measuredW="1683" measuredH="1260" mockupW="1428" mockupH="1232">
   <controls>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::ProgressBar" x="290" y="93" w="636" h="26" measuredW="100" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -194,6 +194,40 @@
     <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="1001" y="675" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Share%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Canvas" x="255" y="787" w="705" h="473" measuredW="100" measuredH="70" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Label" x="281" y="816" w="-1" h="-1" measuredW="327" measuredH="50" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Rosario%20Falsaperla</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="371" y="901" w="163" h="21" measuredW="120" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Issues%20reported%3A%2027</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="371" y="874" w="181" h="21" measuredW="163" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Member%20since%3A%2005/09/2011</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Image" x="281" y="866" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="45" locked="false" isInGroup="-1"/>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::TextInput" x="350" y="960" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>10066329</color>
+        <text>Reporter</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="283" y="962" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Badges%3A</text>
       </controlProperties>
     </control>
   </controls>
