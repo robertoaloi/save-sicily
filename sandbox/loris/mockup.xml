@@ -27,12 +27,12 @@
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="214" w="-1" h="-1" measuredW="39" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="214" w="-1" h="-1" measuredW="39" measuredH="45" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="282" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="282" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
@@ -180,6 +180,20 @@
     <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="1384" y="676" w="145" h="21" measuredW="143" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Report%20for%20spam%20%7C%20Close</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="__group__" x="1051" y="673" w="169" h="26" measuredW="169" measuredH="26" zOrder="39" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="25" h="26" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="110"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="36" y="0" w="25" h="26" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="110"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="72" y="0" w="25" h="26" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="110"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="144" y="0" w="25" h="26" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="110"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="108" y="0" w="25" h="26" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="110"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="1001" y="675" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Share%3A</text>
       </controlProperties>
     </control>
   </controls>
