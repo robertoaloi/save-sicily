@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="960" measuredH="777" mockupW="705" mockupH="749">
+<mockup version="1.0" skin="sketch" measuredW="1683" measuredH="777" mockupW="1428" mockupH="749">
   <controls>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::ProgressBar" x="290" y="93" w="636" h="26" measuredW="100" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -130,6 +130,56 @@
     <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="362" y="699" w="-1" h="-1" measuredW="64" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Report</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Canvas" x="978" y="369" w="705" h="408" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="1001" y="383" w="-1" h="-1" measuredW="204" measuredH="50" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Issue%20%23313</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="1220" y="397" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Illegal%20Dumping%20in%20Vittoria</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Paragraph" x="1256" y="441" w="220" h="96" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20the%0Adescription%20of%20the%0Aissue.</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Map" x="1001" y="438" w="233" h="205" measuredW="252" measuredH="222" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="1256" y="508" w="-1" h="-1" measuredW="172" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reported%20on%20the%2005/09/2011</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Link" x="1276" y="529" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rosario%20Falsaperla</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="1256" y="529" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>by</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Image" x="1256" y="564" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="34" locked="false" isInGroup="-1"/>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Image" x="1351" y="563" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="1451" y="563" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Button" x="1387" y="394" w="-1" h="-1" measuredW="38" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+1</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="1384" y="676" w="145" h="21" measuredW="143" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Report%20for%20spam%20%7C%20Close</text>
       </controlProperties>
     </control>
   </controls>
