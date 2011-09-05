@@ -27,12 +27,12 @@
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="214" w="-1" h="-1" measuredW="39" measuredH="45" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="214" w="-1" h="-1" measuredW="39" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="282" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="319" y="282" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
@@ -228,6 +228,28 @@
     <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="283" y="962" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Badges%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Canvas" x="978" y="787" w="705" h="473" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="1001" y="800" w="-1" h="-1" measuredW="282" measuredH="50" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Issues%20statistics</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="1003" y="854" w="654" h="385" measuredW="200" measuredH="178" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Top%20voted%0ALast%20opened%0ALast%20closed%0ATop%20reporter</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::List" x="1100" y="865" w="549" h="366" measuredW="100" measuredH="212" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20Illegal%20Dumping%20in%20Vittoria%20%28Issue%20%23313%29%0A2.%20...%0A3.%20...%0A4.%20...%0A5.%20...%0A6.%20...%0A7.%20...%0A8.%20...%0A9.%20...%0A10.%20...</text>
       </controlProperties>
     </control>
   </controls>
